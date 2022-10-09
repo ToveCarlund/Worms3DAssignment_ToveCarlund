@@ -1211,7 +1211,7 @@ MonoBehaviour:
   playerTurn: {fileID: 343164979}
   firingPoint: {fileID: 1334610363}
   projectilePrefab: {fileID: 4098073237335558531, guid: c380120434a1ca34eae24d5c7b6ae50d, type: 3}
-  fireRate: 1
+  fireRate: 0.1
 --- !u!114 &343164981
 MonoBehaviour:
   m_ObjectHideFlags: 0
